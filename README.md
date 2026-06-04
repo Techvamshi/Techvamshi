@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Python Full Stack Development and Creative Video Editing Projects**
 
-- 🌱 I’m currently Sharpening **Python, Django, React, After Effects, Premiere Pro, and Motion Graphics**
+- 🌱 I’m currently Sharpening Python, Django, React, After Effects, Premiere Pro, and Motion Graphics
 
-- 👯 I’m looking to collaborate on **Full Stack Web Applications, Automation Tools, and Creative Media Projects**
+- 👯 I’m looking to collaborate on Full Stack Web Applications, Automation Tools, and Creative Media Projects
 
 - ⚡ What I like to do: **Building web applications, creating cinematic video edits, designing motion graphics, learning new technologies, and solving real-world problems**
 
@@ -40,6 +40,25 @@
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
+  <a href="https://www.adobe.com/products/aftereffects.html" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" alt="after effects" width="40" height="40"/>
+</a>
+
+<a href="https://www.adobe.com/products/premiere.html" target="_blank">
+  <img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" alt="premiere pro" width="40" height="40"/>
+</a>
+
+<a href="https://www.adobe.com/products/illustrator.html" target="_blank">
+  <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" alt="illustrator" width="40" height="40"/>
+</a>
+
+<a href="https://www.figma.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
+</a>
+
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" alt="photoshop" width="40" height="40"/>
+</a>
 </p>
 
 <p align= "center">
