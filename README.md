@@ -45,20 +45,15 @@
 </a>
 
 <a href="https://www.adobe.com/products/premiere.html" target="_blank">
-  <img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" alt="premiere pro" width="40" height="40"/>
+  <img src="[https://cdn.simpleicons.org/adobepremierepro/9999FF](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/960px-Adobe_Premiere_Pro_CC_icon.svg.png)" alt="premiere pro" width="40" height="40"/>
 </a>
 
-<a href="https://www.adobe.com/products/illustrator.html" target="_blank">
-  <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" alt="illustrator" width="40" height="40"/>
-</a>
 
 <a href="https://www.figma.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
 </a>
 
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" alt="photoshop" width="40" height="40"/>
-</a>
+
 </p>
 
 <p align= "center">
