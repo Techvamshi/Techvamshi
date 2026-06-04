@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm D U VAMSHI <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A passionate Python Full Stack developer from India</h3>
 
-- 🔭 I’m currently working on my **Python Course**
+- 🔭 I’m currently working on **Python Full Stack Development and Creative Video Editing Projects**
 
-- 🌱 I’m currently learning **Python, HTML5 and CSS3**
+- 🌱 I’m currently Sharpening **Python, Django, React, After Effects, Premiere Pro, and Motion Graphics**
 
-- 👯 I’m looking to collaborate on **front-end and back-end projects**
+- 👯 I’m looking to collaborate on **Full Stack Web Applications, Automation Tools, and Creative Media Projects**
 
-- 📫 How to reach me: **duvamshi10@gmail.com**
-
-- ⚡ What I like to do: **I like so much reading, basketball and skateboarding...and coding of course**
+- ⚡ What I like to do: **Building web applications, creating cinematic video edits, designing motion graphics, learning new technologies, and solving real-world problems**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
