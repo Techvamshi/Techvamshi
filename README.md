@@ -41,10 +41,6 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
 
-<a href="https://www.adobe.com/products/premiere.html" target="_blank">
-  <img src="[https://cdn.simpleicons.org/adobepremierepro/9999FF](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/960px-Adobe_Premiere_Pro_CC_icon.svg.png)" alt="premiere pro" width="40" height="40"/>
-</a>
-
 
 <a href="https://www.figma.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
